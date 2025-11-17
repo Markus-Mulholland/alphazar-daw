@@ -24,7 +24,8 @@ Interface: Single button that starts or stops recording on a track
 
 
 ### volume pot
-Description: adjust the volume on a track
+Description: Adjust the volume on the selected track
+
 Interface: Pot using ADC
 
 
