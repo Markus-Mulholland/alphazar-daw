@@ -4,17 +4,39 @@ Firmware and design files for an Ableton HID powered by a Pico
 # Feature List
 
 ## mk1
-### track selector
-Description: Select the track you would like enable recording on.
+### Track Selector
+Description
+Select the track you would like to work with. This uses ableton's track-select UI to show a visual highlight of the selected track
+
 Interface: Two buttons for moving up and down the list of tracks
 
-### start recording
-Description: Start/Stop recording a track
-Interface: Single button that enables or disables recording on a track
+
+### Arm a Track
+Description: Arm the selected track for recording.
+
+Interface: Single button to arm recording on a track.
+
+
+### Start Recording
+Description: Start/Stop the arrangement recording on the armed track
+
+Interface: Single button that starts or stops recording on a track
+
 
 ### volume pot
 Description: adjust the volume on a track
 Interface: Pot using ADC
+
+
+
+
+
+
+
+
+
+
+
 
 # Useful reading
 https://www.beyondlogic.org/usbnutshell/usb2.shtml#Connectors
