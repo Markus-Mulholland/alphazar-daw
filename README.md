@@ -18,4 +18,4 @@ Interface: Pot using ADC
 
 # Useful reading
 https://www.beyondlogic.org/usbnutshell/usb2.shtml#Connectors
-https://en.wikipedia.org/wiki/USB#Mini_connectors
+https://www.ableton.com/en/manual/midi-and-key-remote-control/
