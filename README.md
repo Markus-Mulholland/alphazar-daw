@@ -5,7 +5,8 @@ Firmware and design files for an Ableton HID powered by a Pico
 
 ## mk1
 ### Track Selector
-Select the track you would like to work with. This uses ableton's track-select UI to show a visual highlight of the selected track
+Select the track you would like to work with. This uses ableton's track-select UI to show a visual highlight of the selected track.
+If a track has been armed, changing the selected track will arm the track that you navigate to.
 
 Interface: Two buttons for moving up and down the list of tracks
 
