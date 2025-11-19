@@ -22,7 +22,8 @@ Firmware and design files for an Ableton HID powered by a Pico
   - Record
   - Tempo Tap
 - Master Volume
-Ideas
+
+#### Ideas
 - Joystick for scroll
 - hold + pot for scroll
   
