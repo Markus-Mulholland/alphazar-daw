@@ -11,17 +11,17 @@ Firmware and design files for an Ableton HID powered by a Pico
 
 ### Functions
 - Track Controls
-  - Select
-  - Arm
-  - Mute/Unmute
-  - Solo
-  - Volume
+  - Select: scroll
+  - Arm: tap
+  - Mute/Unmute: tap
+  - Solo: hold
+  - Volume: hold + scroll
 - Transport Controls
-  - Play
-  - Stop
-  - Record
+  - Play: tap
+  - Stop: tap
+  - Record: tap
   - Tempo Tap
-- Master Volume
+- Master Volume: hold + scroll
 
 #### Ideas
 - Joystick for scroll
